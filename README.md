@@ -8,12 +8,8 @@ Image Compression with K-Means Clustering Project is Build Using Python , K-mean
 1.	Explain the steps involved in k-means clustering.
 2.	Apply k-means clustering with scikit-learn and Python to compress images.
 3.	Create interactive, GUI components in Jupyter notebooks using Jupyter widgets
-Structure of project
-It  is divided into 4 parts:
-1.	Course Overview: This introductory reading material.
-2.	Image Compression with K-Means Clustering Project: This is the hands on project that we will work on in Rhyme.
-3.	Ungraded Quiz: Check your understanding of the concepts learned in the hands on project with this ungraded quiz.
-4.	Graded Quiz: This is the final assignment that you need to pass in order to successfully complete the course and earn a Course Certificate.
+
+
 Project Structure # 🛠️ and used technologies
 project on Image Compression with K-Means Clustering is divided into the following tasks:
 Task 1: Introduction and Overview
@@ -42,7 +38,7 @@ Task 6: K-means Image Compression with Interactive Controls
 .
 ________________________________________
 
-Image Compression with K-Mean Clustering #MLproject #completed Unsupervised Technique based on 16 million colors represented as 16 colors to compress the image
+Image Compression with K-Mean Clustering #MLproject Unsupervised Technique based on 16 million colors represented as 16 colors to compress the image
 That involved k-means clustering with scikit-learn and Python to compress images by Creating interactive, GUI components in Jupyter notebooks using Jupyter widgets
 where i have used  essential modules and helper functions from NumPy, Matplotlib, scikit-learn, and Jupyter Widgets.
 staring from #Datapreprocessing to Import images from a local directory and store them as numpy arrays. then
